@@ -20,7 +20,7 @@ Este projeto é um desafio de criação de um jogo RPG de turnos para avaliaçã
 ### 💻 Resultado:
 
 
-https://github.com/caiqueb05/Desafio-T-Academy-RPG/assets/81648936/8e2fba40-e7d9-4cb0-bd70-c1c566334548
+![ezgif com-gif-maker](https://github.com/caiqueb05/Desafio-T-Academy-RPG/assets/81648936/51fc2d76-291a-4ca0-b6a4-154af297c70e)
 
 ##
 
